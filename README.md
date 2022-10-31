@@ -1,4 +1,4 @@
-# A deep learning model for classifying colorectal cancer histopathology slides using convolutional neural network (CNN) 
+# A Deep learning model for colorectal cancer histopathological images classifying : using convolutional neural network (CNN) 
 
 #### Introduction: 
 The study of tissue by histopathology is regarded as the gold standard for determining a cancer's prognosis. The scanning and digitizing of whole histology slides is known as whole-slide imaging (WSI), and it is currently being used in pathology labs all over the world. Analyzing these images takes time due to the complexity of WSIs and the rise in the number of suspected cancer cases. Automated diagnosis of tumorous tissue helps in elevating the precision, speed, and reproducibility of research. Deep learning-based methods have recently produced cutting-edge outcomes for a number of image analysis applications, including the interpretation of digital slides. in this work we try to training a deep learning model that can classify tumor, stroma and lympho using pathology images.
