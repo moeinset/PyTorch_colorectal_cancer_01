@@ -23,7 +23,7 @@ data/
       lympho/
            
       
-#### 2-edit train.py and define "Hyperparameters" (you can change):
+#### 2-save all needed script files and edit train.py for defining "Hyperparameters" (you can change):
 
 NUM_EPOCHS, 
 BATCH_SIZE, 
