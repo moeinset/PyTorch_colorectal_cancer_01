@@ -5,9 +5,13 @@ data should be in this order:
 
 
 data/
+
      tumor_stroma_lympho/
+     
          train/
+         
               tumor/
+              
                    train_image_01.jpeg
                    train_image_02.jpeg
         ...
