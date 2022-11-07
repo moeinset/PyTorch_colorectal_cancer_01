@@ -32,6 +32,6 @@ LEARNING_RATE
 
 #### 3-save train.py
 
-#### 4-execute train.py in script mode and enjoy training ;)
+#### 4-execute train.py in terminal mode and enjoy training ;)
 
 #### 5- the model will be saved in model directory
