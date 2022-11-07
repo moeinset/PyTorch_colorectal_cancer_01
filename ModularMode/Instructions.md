@@ -3,7 +3,7 @@
 #### 1-download data to your colab (you can use get_data.py module)
 data should be in this order:
 
-"
+
 data/
   tumor_stroma_lympho/
     train/
@@ -20,8 +20,7 @@ data/
         ...
       stroma/
       lympho/
-      
-      "
+           
       
 #### 2-edit train.py and define "Hyperparameters" (you can change):
 NUM_EPOCHS 
