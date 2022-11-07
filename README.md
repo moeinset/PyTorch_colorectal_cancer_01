@@ -12,5 +12,5 @@ As we see our model present a good accuracy about 90 percent. but we still can i
 .
 
 
-data available here : https://cdn-130.anonfiles.com/8ep9p1F8y5/04b33f1f-1667216246/tumor_stroma_lympho.zip
+data available here : https://cdn-119.anonfiles.com/8ep9p1F8y5/5147761f-1667854476/tumor_stroma_lympho.zip
 code available at : https://github.com/moeinset/PyTorch_colorectal_cancer_01
