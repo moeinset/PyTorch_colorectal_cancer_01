@@ -24,6 +24,7 @@ data/
            
       
 #### 2-edit train.py and define "Hyperparameters" (you can change):
+
 NUM_EPOCHS 
 BATCH_SIZE 
 HIDDEN_UNITS
