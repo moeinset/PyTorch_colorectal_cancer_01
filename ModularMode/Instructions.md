@@ -1,6 +1,6 @@
-for using in modular mode:
+#### for using in modular mode:
 
-1-download data to your colab (you can use get_data.py module)
+# 1-download data to your colab (you can use get_data.py module)
 data should be in this order:
 
 data/
@@ -20,14 +20,14 @@ data/
       stroma/
       lympho/
       
-2-edit train.py and define "Hyperparameters" (you can change):
+# 2-edit train.py and define "Hyperparameters" (you can change):
 NUM_EPOCHS 
 BATCH_SIZE 
 HIDDEN_UNITS
 LEARNING_RATE
 
-3-save train.py
+# 3-save train.py
 
-4-execute train.py in script mode and enjoy training ;)
+# 4-execute train.py in script mode and enjoy training ;)
 
-5- the model will be saved in model directory
+# 5- the model will be saved in model directory
