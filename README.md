@@ -10,7 +10,8 @@ The results showed a convergence after about 10 epochs and were continued by oth
 As we see our model present a good accuracy about 90 percent. but we still can improve the model by increasing hidden layers, changing activation function, using more data and change learning algorithm parameters. By designing and training different models and using different data, a model can be presented to help pathologists for better diagnosis and reduce time.
 
 .
-
+Note : because of the data server policity the exact link of data may be changed!
+so update the data link by copy address from the data server!
 
 data available here : https://cdn-119.anonfiles.com/8ep9p1F8y5/5147761f-1667854476/tumor_stroma_lympho.zip
 code available at : https://github.com/moeinset/PyTorch_colorectal_cancer_01
